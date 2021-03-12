@@ -1,1 +1,1 @@
-read
+Projeto clone do Site Starbucks, para treinamento de CSS (Grid) em aula.
