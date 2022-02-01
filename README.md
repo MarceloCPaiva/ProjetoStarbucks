@@ -1,1 +1,2 @@
-Projeto clone do Site Starbucks, para treinamento de CSS (Grid) em aula.
+## Projeto clone do Site Starbucks
+Treinamento de CSS (Grid) em aula com prof Bonieck Lacerda.
