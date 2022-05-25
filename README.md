@@ -1,2 +1,3 @@
 ## Projeto clone do Site Starbucks
-Treinamento de CSS (Grid) em aula com prof Bonieck Lacerda.
+Nesse projeto foi trabalhado especificamente o conteúdo flexível com css Grid e Flexbox.
+Feito em aula com prof Bonieck Lacerda.
